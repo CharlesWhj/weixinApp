@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="header">
+ <view class="item">文件</view>
+ <view class="item">项目</view>
+ <view class="item">程序</view>
+ <view class="item">开发</view>
+</view>
